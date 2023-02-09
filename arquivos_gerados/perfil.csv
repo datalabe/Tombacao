@@ -1,0 +1,58 @@
+id_gen,intersex,id_orientsex,id_raca,idade,defic,qualdefic,posdoc,possedoc,tpnaoposse,ufnasc,retifsoc,retifgrat,relacamor
+0,Não,id_orientsex,1,22,Não,Sem informação,Certidão de Nascimento Carteira de Identidade (RG) CPF Carteira de Trabalho Título de Eleitor,Sim,Sem informação,Rio de Janeiro,Não,Sem informação,Sim
+1,Não,id_orientsex,1,21,Não,Sem informação,Certidão de Nascimento Carteira de Identidade (RG) CPF Carteira de Trabalho Título de Eleitor,Sim,Sem informação,Sergipe,Não,Sem informação,Não
+1,Não,id_orientsex,1,20,Não,Sem informação,Certidão de Nascimento Carteira de Identidade (RG),Sim,Sem informação,Rio de Janeiro,Não,Sem informação,Não
+2,Não,id_orientsex,1,26,Não tenho certeza,Sem informação,Certidão de Nascimento Carteira de Identidade (RG) CPF Título de Eleitor,Não,Carteira de Trabalho Título de Eleitor,Ceará,Não,Sem informação,Não
+2,Não,id_orientsex,1,18,Não,Sem informação,Certidão de Nascimento Carteira de Identidade (RG) CPF Carteira de Trabalho,Sim,Sem informação,Rio de Janeiro,Não,Sem informação,Não
+2,Não,id_orientsex,1,28,Não,Sem informação,Certidão de Nascimento Carteira de Identidade (RG) CPF Carteira de Trabalho Título de Eleitor,Sim,Sem informação,Rio de Janeiro,Não,Sem informação,Não
+2,Não,id_orientsex,1,27,Não,Sem informação,Certidão de Nascimento Carteira de Identidade (RG) CPF,Sim,Sem informação,Rio de Janeiro,Não,Sem informação,Não
+2,Não,id_orientsex,1,34,Não,Sem informação,Certidão de Nascimento Carteira de Identidade (RG) CPF Carteira de Trabalho Título de Eleitor,Não,Certidão de Nascimento Carteira de Trabalho Título de Eleitor,Rio de Janeiro,Não,Sem informação,Não
+1,Não,id_orientsex,1,26,Não,Sem informação,Certidão de Nascimento Carteira de Identidade (RG) CPF Carteira de Trabalho Título de Eleitor,Sim,Sem informação,Rio de Janeiro,Não,Sem informação,Não
+2,Não,id_orientsex,1,34,Não,Sem informação,Certidão de Nascimento Carteira de Identidade (RG) CPF Carteira de Trabalho Título de Eleitor,Não,Certidão de Nascimento Carteira de Trabalho Título de Eleitor,Rio de Janeiro,Não,Sem informação,Não
+3,Não,id_orientsex,1,31,Não,Sem informação,Certidão de Nascimento Carteira de Identidade (RG) CPF Carteira de Trabalho Título de Eleitor,Sim,Sem informação,Rio de Janeiro,Sem informação,Sem informação,Não
+4,Não,id_orientsex,1,23,Não,Sem informação,Certidão de Nascimento Carteira de Identidade (RG) CPF Carteira de Trabalho Título de Eleitor,Sim,Sem informação,São Paulo,Sem informação,Sem informação,Não
+3,Não,id_orientsex,1,27,Não,Sem informação,Certidão de Nascimento Carteira de Identidade (RG) CPF Carteira de Trabalho Título de Eleitor,Sim,Sem informação,Rio de Janeiro,Sem informação,Sem informação,Não
+4,Não,id_orientsex,1,23,Não,Sem informação,Certidão de Nascimento Carteira de Identidade (RG) CPF Carteira de Trabalho Título de Eleitor,Sim,Sem informação,Rio de Janeiro,Sem informação,Sem informação,Sim
+2,Não,id_orientsex,1,21,Não,Sem informação,Certidão de Nascimento CPF Carteira de Trabalho,Sim,Sem informação,Rio de Janeiro,Não,Sem informação,Não
+3,Não,id_orientsex,1,36,Não,Sem informação,Certidão de Nascimento Carteira de Identidade (RG) CPF Carteira de Trabalho Título de Eleitor,Sim,Sem informação,Rio Grande do Norte,Sem informação,Sem informação,Não
+5,Não,id_orientsex,1,36,Não,Sem informação,Certidão de Nascimento Carteira de Identidade (RG) CPF Carteira de Trabalho Título de Eleitor,Sim,Sem informação,Rio de Janeiro,Não desejo,Sem informação,Sim
+1,Não,id_orientsex,1,25,Não,Sem informação,Certidão de Nascimento Carteira de Identidade (RG),Não,Certidão de Nascimento Carteira de Identidade (RG),Rio de Janeiro,Não,Sem informação,Não
+6,Sem informação,id_orientsex,1,37,Não,Sem informação,Certidão de Nascimento Carteira de Identidade (RG) CPF Carteira de Trabalho Título de Eleitor,Sim,Sem informação,Rio de Janeiro,Não,Sem informação,Sim
+2,Sim,id_orientsex,1,29,Não,Sem informação,Certidão de Nascimento Carteira de Identidade (RG) CPF Carteira de Trabalho Título de Eleitor,Não,Certidão de Nascimento Carteira de Trabalho Título de Eleitor,Rio de Janeiro,Sim,Sim,Não
+1,Sim,id_orientsex,1,19,Sim,Física,Certidão de Nascimento Carteira de Identidade (RG) CPF,Sim,Sem informação,Rio de Janeiro,Sim,Sim,Sim
+1,Sim,id_orientsex,1,-1,Não,Sem informação,Certidão de Nascimento Carteira de Identidade (RG) CPF Carteira de Trabalho Título de Eleitor,Sim,Sem informação,Rio de Janeiro,Não,Sem informação,Sim
+7,Não,id_orientsex,1,26,Não,Sem informação,Certidão de Nascimento Carteira de Identidade (RG) CPF Carteira de Trabalho Título de Eleitor,Sim,Sem informação,Rio de Janeiro,Não,Sem informação,Sim
+2,Não,id_orientsex,1,45,Não,Sem informação,Certidão de Nascimento Carteira de Identidade (RG) CPF Carteira de Trabalho Título de Eleitor,Sim,Sem informação,Rio Grande do Norte,Não,Sem informação,Não
+2,Sim,id_orientsex,1,22,Não,Sem informação,Certidão de Nascimento Carteira de Identidade (RG) CPF Carteira de Trabalho Título de Eleitor,Sim,Sem informação,Rio de Janeiro,Não,Sem informação,Sim
+8,Não,id_orientsex,1,25,Não,Sem informação,Certidão de Nascimento Carteira de Identidade (RG) CPF Carteira de Trabalho Título de Eleitor,Sim,Sem informação,Rio de Janeiro,Não,Sem informação,Não
+4,Não,id_orientsex,2,22,Não,Sem informação,Certidão de Nascimento Carteira de Identidade (RG) CPF Carteira de Trabalho Título de Eleitor,Sim,Sem informação,Amazonas,Sem informação,Sem informação,Sim
+2,Não,id_orientsex,1,32,Não,Sem informação,Certidão de Nascimento Carteira de Identidade (RG) CPF Carteira de Trabalho Título de Eleitor,Sim,Sem informação,Rio de Janeiro,Sim,Sim,Não
+3,Não,id_orientsex,1,26,Não,Sem informação,Certidão de Nascimento Carteira de Identidade (RG) CPF Carteira de Trabalho Título de Eleitor,Sim,Sem informação,Rio de Janeiro,Sem informação,Sem informação,Não
+2,Não,id_orientsex,1,23,Não,Sem informação,Certidão de Nascimento Carteira de Identidade (RG) CPF,Sim,Sem informação,Rio de Janeiro,Sim,Sim,Sim
+1,Não,id_orientsex,3,53,Não,Sem informação,Certidão de Nascimento Carteira de Identidade (RG) CPF Carteira de Trabalho Título de Eleitor,Sim,Sem informação,Rio de Janeiro,Sim,Sim,Não
+2,Não,id_orientsex,2,19,Não,Sem informação,Certidão de Nascimento Carteira de Identidade (RG) CPF Carteira de Trabalho Título de Eleitor,Sim,Sem informação,Rio de Janeiro,Não,Sem informação,Sim
+3,Não,id_orientsex,1,34,Não,Sem informação,Certidão de Nascimento Carteira de Identidade (RG) CPF Carteira de Trabalho Título de Eleitor,Sim,Sem informação,Rio de Janeiro,Sem informação,Sem informação,Não
+0,Sim,id_orientsex,1,36,Não,Sem informação,Certidão de Nascimento Carteira de Identidade (RG) CPF Carteira de Trabalho Título de Eleitor,Não,Carteira de Identidade (RG) Carteira de Trabalho,Rio de Janeiro,Sim,Não,Sim
+2,Não,id_orientsex,1,27,Não,Sem informação,Certidão de Nascimento Carteira de Identidade (RG) CPF Carteira de Trabalho Título de Eleitor,Sem informação,Sem informação,Rio de Janeiro,Não,Sem informação,Não
+2,Não,id_orientsex,1,19,Não,Sem informação,Certidão de Nascimento Carteira de Identidade (RG) CPF Carteira de Trabalho,Sim,Sem informação,Rio de Janeiro,Não,Sem informação,Não
+7,Não,id_orientsex,1,45,Não,Sem informação,Certidão de Nascimento Carteira de Identidade (RG) CPF Carteira de Trabalho Título de Eleitor,Sim,Sem informação,Rio de Janeiro,Não,Sem informação,Não
+2,Não,id_orientsex,1,28,Não,Sem informação,Certidão de Nascimento Carteira de Identidade (RG) CPF Carteira de Trabalho Título de Eleitor,Sim,Sem informação,Rio de Janeiro,Não,Sem informação,Não
+2,Não,id_orientsex,1,24,Não,Sem informação,Certidão de Nascimento Carteira de Identidade (RG) CPF Carteira de Trabalho,Sim,Sem informação,Rio de Janeiro,Não,Sem informação,Não
+3,Sim,id_orientsex,1,29,Não,Sem informação,Certidão de Nascimento Carteira de Identidade (RG) CPF Carteira de Trabalho Título de Eleitor,Sim,Sem informação,Pará,Sem informação,Sem informação,Não
+2,Não,id_orientsex,1,41,Não,Sem informação,Certidão de Nascimento Carteira de Identidade (RG) CPF Carteira de Trabalho Título de Eleitor,Sim,Sem informação,Rio de Janeiro,Não,Sem informação,Não
+2,Não,id_orientsex,1,33,Não,Sem informação,Carteira de Identidade (RG),Não,Certidão de Nascimento CPF Carteira de Trabalho Título de Eleitor,Rio de Janeiro,Não,Sem informação,Não
+1,Não,id_orientsex,1,40,Não,Sem informação,Certidão de Nascimento Carteira de Identidade (RG) CPF Carteira de Trabalho Título de Eleitor,Sim,Sem informação,Rio de Janeiro,Não desejo,Sem informação,Sim
+1,Não,id_orientsex,1,23,Não,Sem informação,Certidão de Nascimento CPF Carteira de Trabalho Título de Eleitor,Sim,Sem informação,Rio de Janeiro,Não,Sem informação,Não
+2,Não,id_orientsex,1,38,Não,Sem informação,Certidão de Nascimento Carteira de Identidade (RG) CPF Carteira de Trabalho Título de Eleitor,Sim,Sem informação,Rio de Janeiro,Sim,Sim,Não
+4,Não,id_orientsex,1,28,Não,Sem informação,Certidão de Nascimento Carteira de Identidade (RG) CPF Carteira de Trabalho Título de Eleitor,Sim,Sem informação,Rio de Janeiro,Sem informação,Sem informação,Sim
+3,Não,id_orientsex,3,54,Sim,Física,Certidão de Nascimento Carteira de Identidade (RG) CPF Carteira de Trabalho Título de Eleitor,Sim,Sem informação,Rio de Janeiro,Sem informação,Sem informação,Não
+3,Não,id_orientsex,3,21,Não,Sem informação,Certidão de Nascimento Carteira de Identidade (RG) CPF Carteira de Trabalho Título de Eleitor,Sim,Sem informação,Paraíba,Sem informação,Sem informação,Não
+4,Não,id_orientsex,1,22,Não,Sem informação,Certidão de Nascimento Carteira de Identidade (RG) CPF Carteira de Trabalho Título de Eleitor,Sim,Sem informação,Rio de Janeiro,Sem informação,Sem informação,Sim
+4,Não,id_orientsex,1,24,Não,Sem informação,Certidão de Nascimento Carteira de Identidade (RG) CPF Carteira de Trabalho Título de Eleitor,Não,Carteira de Trabalho,Rio de Janeiro,Sem informação,Sem informação,Sim
+3,Não,id_orientsex,3,30,Não,Sem informação,Certidão de Nascimento Carteira de Identidade (RG) CPF Carteira de Trabalho Título de Eleitor,Sim,Sem informação,Rio de Janeiro,Sem informação,Sem informação,Não
+3,Não,id_orientsex,1,48,Não,Sem informação,Certidão de Nascimento Carteira de Identidade (RG) CPF Carteira de Trabalho Título de Eleitor,Sim,Sem informação,Rio de Janeiro,Sem informação,Sem informação,Não
+1,Não,id_orientsex,1,32,Não,Sem informação,Certidão de Nascimento Carteira de Identidade (RG) CPF Carteira de Trabalho Título de Eleitor,Sim,Sem informação,Rio de Janeiro,Sim,Sim,Sim
+1,Não,id_orientsex,1,38,Não,Sem informação,Certidão de Nascimento Carteira de Identidade (RG) CPF Carteira de Trabalho Título de Eleitor,Sim,Sem informação,Rio de Janeiro,Sim,Sim,Sim
+4,Não,id_orientsex,3,23,Não,Sem informação,Certidão de Nascimento Carteira de Identidade (RG) CPF Título de Eleitor,Sim,Sem informação,Distrito Federal,Sem informação,Sem informação,Sim
+4,Não,id_orientsex,3,28,Não,Sem informação,Certidão de Nascimento Carteira de Identidade (RG) CPF Título de Eleitor,Sim,Sem informação,Rio de Janeiro,Sem informação,Sem informação,Não
+2,Não,id_orientsex,1,36,Não,Sem informação,Certidão de Nascimento Carteira de Identidade (RG) CPF Carteira de Trabalho Título de Eleitor,Sim,Sem informação,Rio de Janeiro,Sim,Sim,Não
