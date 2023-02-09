@@ -1,5 +1,5 @@
 <h1 align="center"> Projeto Tombação </h1>
-<p align="justify"><img alt="Bower" src="https://img.shields.io/bower/l/analise_tombacao"></img>
+<p align="justify"><img alt="GitHub" src="https://img.shields.io/github/license/datalabe/analise_tombacao"></img>
 <p align="justify">Análise exploratória de dados sobre raça, gênero, identidade de gênero,território e outros temas como saúde, trabalho,violência e moradia, desenvolvido pelo datalabe em parceria com o <a href="https://www.instagram.com/grupoconexaog/">Conexão G</a></p>
 
 <h1 align="center">Dados</h1>
