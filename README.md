@@ -18,10 +18,11 @@ em Pretuguês e Instituto de Igualdade Racial.Com o objetivo de coletar dados qu
   <li>Dashboard</li>
 </ol>
              
- <p align="justify">ANALISTA DE DADOS:</p> 
+ <p align="justify">ANALISTAS DE DADOS:</p> 
+ <li><a href="https://github.com/andreialuizafm">Andréia Mattos(estagiária)</a></li>
  <li><a href="https://github.com/polinhobr">Paulo Mota</a></li>
  <li><a href="https://github.com/SamanthaReiis">Samantha Reis</a></li>
- <li><a href="https://github.com/andreialuizafm">Andréia Mattos</a></li>
+
  
  <h1 align="center">Licença</h1>
 <p align="justify">Ao compartilhar este projeto cite os desenvolvedores!
